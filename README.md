@@ -1,4 +1,4 @@
-# RESTful API with NestJS, PostgreSQL, Prisma, Swagger, and JWT
+# RESTful API with NestJS, PostgreSQL, Prisma, and Swagger
 
 ## Description
 
